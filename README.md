@@ -1,17 +1,17 @@
-# 📈 Student Marks Prediction (Linear Regression from Scratch)
+#  Student Marks Prediction (Linear Regression from Scratch)
 
 This project demonstrates my understanding of **machine learning fundamentals** by implementing **linear regression and gradient descent** entirely from scratch — without using any ML libraries such as scikit-learn.  
 It predicts student exam marks based on the number of hours they study.
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 To explore the relationship between **study time** and **student performance**, and build a simple predictive model that estimates marks using linear regression.
 
 ---
 
-## 🧠 What the Program Does
+##  What the Program Does
 
 1. Reads a dataset (`Student_Marks.csv`) containing two columns:  
    - `time_study` – hours spent studying  
@@ -22,16 +22,16 @@ To explore the relationship between **study time** and **student performance**, 
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
-- 📊 Pure Python implementation of **Linear Regression**  
-- 🔢 Manual computation of **gradients and error**  
-- 📈 Visualization of the regression line and data points  
-- 🧮 Adjustable parameters: learning rate (`L`) and number of epochs
+-  Pure Python implementation of **Linear Regression**  
+-  Manual computation of **gradients and error**  
+-  Visualization of the regression line and data points  
+-  Adjustable parameters: learning rate (`L`) and number of epochs
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Category | Tools |
 |-----------|-------|
@@ -41,7 +41,7 @@ To explore the relationship between **study time** and **student performance**, 
 
 ---
 
-## 🚀 What I Learned
+##  What I Learned
 
 Through this project I practiced:
 - Implementing machine learning algorithms **from scratch**  
@@ -53,12 +53,12 @@ This project highlights my ability to **understand and implement core ML concept
 
 ---
 
-## 📈 Example Visualization
+##  Example Visualization
 
 The script plots a regression line that predicts marks based on study time:
 ![Regression plot](regression_plot.png)
 ---
-## 🏁 Results Summary
+##  Results Summary
 
 -  Model successfully predicts marks based on study hours
 -  Demonstrates understanding of optimization and error minimization
