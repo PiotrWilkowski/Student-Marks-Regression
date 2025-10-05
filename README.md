@@ -56,7 +56,7 @@ This project highlights my ability to **understand and implement core ML concept
 ##📈 Example Visualization
 
 The script plots a regression line that predicts marks based on study time:
-![Pairplot Example](pairplot.png)
+![Regression plot](regression_plot.png)
 ---
 ##🏁 Results Summary
 
